@@ -6,7 +6,7 @@ Practical Design Pattern in Javascript by [Pluralsight](https://app.pluralsight.
 
 ### Creational
 
-* [Constuctor](https://github.com/mauriciojunior/design-patterns-javascript/Constuctor)
+* [Constructor](https://github.com/mauriciojunior/design-patterns-javascript/tree/master/Constructor)
 * Module
 * Factory
 * Singleton
